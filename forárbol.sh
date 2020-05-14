@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Vamos a hacer una pirámide,dime de cuantos pisos la hacemos"
+echo "Vamos a dibujar un bonito  árbol de navidad, dime la altura profavor"
 read Pisos
 for((piso=1; piso<=Pisos; piso++))
 do
